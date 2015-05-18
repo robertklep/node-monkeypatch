@@ -1,4 +1,5 @@
-## node-monkeypatch
+## node-monkeypatch [![Build Status](https://travis-ci.org/robertklep/node-monkeypatch.svg?branch=master)](https://travis-ci.org/robertklep/node-monkeypatch)
+
 
 Slightly easier monkeypatching.
 
