@@ -1,6 +1,6 @@
 var mochasinon  = require('mocha-sinon');
 var expect      = require('chai').expect;
-var monkeypatch = require('.');
+var monkeypatch = require('./index.js');
 
 describe('monkeypatch()', function() {
   var stub;
